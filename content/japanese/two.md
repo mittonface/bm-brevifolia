@@ -1,3 +1,9 @@
++++
+finished_date = 2020-07-17T04:00:00Z
+genki_chapter = "Genk Chapter 2"
+tags = ["Genki"]
+
++++
 # Genki Chapter 3
 ## Verb Conjugation
 Verbs in Japanese conjugate, or take various shapes.  We will learn three forms

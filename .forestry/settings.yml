@@ -12,7 +12,7 @@ sections:
   create: all
   match: "**/*"
   templates:
-  - blog
+  - japanese-lesson
 - type: document
   path: content/about/info.md
   label: Info Page

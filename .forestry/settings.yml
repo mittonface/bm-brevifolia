@@ -4,6 +4,8 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: heading
+  label: Content
 - type: directory
   path: content/japanese
   label: Japanese Lessons
@@ -11,8 +13,6 @@ sections:
   match: "**/*"
   templates:
   - blog
-- type: heading
-  label: Content
 - type: document
   path: content/about/info.md
   label: Info Page

@@ -9,7 +9,7 @@ sections:
 - type: directory
   path: content/japanese
   label: Japanese Lessons
-  create: all
+  create: documents
   match: "**/*"
   templates:
   - japanese-lesson

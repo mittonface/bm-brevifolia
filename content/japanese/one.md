@@ -1,3 +1,9 @@
++++
+author = "Ralph Waldo Emerson"
+date = 2020-07-07T04:00:00Z
+title = "Genki Chapter 1"
+
++++
 # Genki Chapter 1
 ## Expression notes
 *おはよう*/*ありがとう*　
@@ -119,4 +125,3 @@ This is placed after a name as a generic title. If goes with both a given name a
 
 *Referring to the person you are talking to*
 The word for you あなた is not very commonly used. Instead we use the name in the title to refer to the person that we are talking to.
-

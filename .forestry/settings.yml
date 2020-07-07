@@ -4,6 +4,13 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: directory
+  path: content/japanese
+  label: Japanese Lessons
+  create: all
+  match: "**/*"
+  templates:
+  - blog
 - type: heading
   label: Content
 - type: document

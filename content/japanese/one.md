@@ -1,6 +1,7 @@
 +++
 author = "Ralph Waldo Emerson"
 date = 2020-07-07T04:00:00Z
+hero = "/images/ruslan-bardash-g83y6do219w-unsplash.jpg"
 title = "Genki Chapter 1"
 
 +++

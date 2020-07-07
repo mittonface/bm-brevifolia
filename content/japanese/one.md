@@ -1,7 +1,10 @@
 +++
 author = "Ralph Waldo Emerson"
-date = 2020-07-07T04:00:00Z
+date = "2020-07-07T04:00:00+00:00"
+finished_date = 2020-07-01T16:08:00Z
+genki_chapter = "Chapter 1"
 hero = "/images/ruslan-bardash-g83y6do219w-unsplash.jpg"
+tags = ["genki", "greetings"]
 title = "Genki Chapter 1"
 
 +++

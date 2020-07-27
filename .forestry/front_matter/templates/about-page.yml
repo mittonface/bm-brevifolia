@@ -7,7 +7,7 @@ fields:
   label: title
 - type: datetime
   name: date-1
-  label: date
+  label: datefeww
 - type: text
   name: type
   label: type

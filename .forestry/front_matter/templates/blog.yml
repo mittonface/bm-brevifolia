@@ -21,7 +21,7 @@ fields:
   description: Choose author here, add new authors in Authors List
 - type: datetime
   name: date-2
-  label: Date
+  label: Dateddd
 - type: text
   name: type
   label: type

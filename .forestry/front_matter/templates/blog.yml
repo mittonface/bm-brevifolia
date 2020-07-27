@@ -20,7 +20,7 @@ fields:
   label: Author
   description: Choose author here, add new authors in Authors List
 - type: datetime
-  name: date
+  name: date-2
   label: Date
 - type: text
   name: type
